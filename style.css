@@ -43,3 +43,8 @@ p{
     color: #5077bd;
 
 }
+
+.poster img{
+    height: 800px;
+    width: 100%;
+}
